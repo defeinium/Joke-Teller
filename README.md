@@ -8,4 +8,4 @@ CSS
 JavsScript
 
 # Project Demonstration
-[LiveView](https://defeinium.github.io/Joke Teller/ "Joke Teller")
+[LiveView](https://defeinium.github.io/Joke-Teller/ "Joke Teller")
